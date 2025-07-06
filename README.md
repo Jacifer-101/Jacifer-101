@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is Jace, and welcome to my GitHub Repository. 
-<a href="www.linkedin.com/in/jace-noah"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jace-noah"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an IS&T helpdesk technician intern for a medical system by day (night as well depending on my schedule haha), and an Information Assurance student at Western Governors University by night. My eventual goal is to land a job as a Tier 1 SOC analyst or an analyst adjacent job that I can apply all of my IT and security related knowledge to. 
 
